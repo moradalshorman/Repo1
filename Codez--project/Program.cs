@@ -18,6 +18,7 @@ internal class Program
             emp.final();
         }
         Console.WriteLine($"The Sum Of Monthly Salary is : {SumOfMonthlySalary}");
+        Console.WriteLine($"The Sum Of Monthly Salary is : {SumOfMonthlySalary}");
     }
 }
 
